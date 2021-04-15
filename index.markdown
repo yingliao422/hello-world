@@ -15,7 +15,7 @@ carousel:
     text: |
       random text 3
 ---
-{% include navigation.html}
+{% include navigation.html %}
 
 
 Trying Carousel
