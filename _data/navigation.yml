@@ -3,14 +3,14 @@ docs:
   - title: Introduction
     url: /
   - title: Getting Start
-    url: start.html
+    url: /start.html
   - title: For Admins
-    url: admins.html
+    url: /admins.html
   - title: For Users
-    url: users.html
+    url: /users.html
   - title: Plugins
-    url: plugins.html
+    url: /plugins.html
   - title: Integrations
-    url: integrations.html
+    url: /integrations.html
   - title: Developement
-    url: development.html
+    url: /development.html
