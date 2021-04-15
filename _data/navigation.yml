@@ -1,0 +1,16 @@
+docs_list_title: AWS Orbit Documentation
+docs:
+  - title: Introduction
+    url: index.HTML
+  - title: Getting Start
+    url: start.HTML
+  - title: For Admins
+    url: admins.HTML
+  - title: For Users
+    url: users.HTML
+  - title: Plugins
+    url: plugins.HTML
+  - title: Integrations
+    url: integrations.HTML
+  - title: Developement
+    url: development.HTML

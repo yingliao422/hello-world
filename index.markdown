@@ -15,11 +15,8 @@ carousel:
     text: |
       random text 3
 ---
-
-
-
+{% include navigation.html}
 
 
 Trying Carousel
-
- {% include carousel.html height="50" unit="%" duration="7" %}
+{% include carousel.html height="50" unit="%" duration="7" %}
